@@ -1,1 +1,1 @@
-print("smrdíš fr")
+print("Nevěř zrcadlům")
